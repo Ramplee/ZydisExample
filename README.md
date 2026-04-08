@@ -46,3 +46,5 @@ If you don’t want global integration, you can also pass the toolchain file to 
 ## Run
 
 By default the sample tries to load a specific file path. If it can’t find your file, just change the path in `ZydisExample/main.cpp` and run again.
+
+Credits to [@dword64](https://github.com/dword64) 
